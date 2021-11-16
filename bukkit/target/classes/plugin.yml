@@ -1,0 +1,7 @@
+name: DarkDungeon
+version: 1.0
+main: tr.beyazpolis.dungeon.DungeonBukkit
+author: BeyazPolis
+depend:  [ProtocolLib]
+commands:
+  dungeon: {}
